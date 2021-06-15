@@ -1,1 +1,2 @@
+pip install jupyterthemes
 jt -t gruvboxd -T -N -kl -vim -fs 10 -nfs 10 -ofs 10 -dfs 10 -tfs 10 -altout -cellw '95%'
